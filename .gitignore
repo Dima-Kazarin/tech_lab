@@ -1,0 +1,9 @@
+*.log
+
+/temp/
+
+/backup/*
+
+config.ini
+
+*.bak
